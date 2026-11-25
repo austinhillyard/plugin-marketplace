@@ -487,6 +487,20 @@
       "homepage": "https://docs.expo.dev/agents/",
       "keywords": ["expo"],
       "domains": ["expo.dev", "docs.expo.dev", "expo.io"]
+    },
+    {
+      "name": "lucid",
+      "description": "Official Lucid plugin for Lucidchart and Lucidspark. Create diagrams, find and summarize Lucid documents, edit shapes, share and export documents, and eliminate context switching through the Lucid MCP server.",
+      "category": "diagramming",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lucidsoftware/lucid-mcp-server.git",
+        "sha": "31763842451d3b62a78e1c959fe7b558d6065bdd",
+        "path": "claude"
+      },
+      "homepage": "https://help.lucid.co/hc/en-us/articles/42578801807508-Integrate-Lucid-with-AI-tools-using-the-Lucid-MCP-server",
+      "keywords": ["lucid", "lucidchart", "lucidspark", "lucid mcp"],
+      "domains": ["lucid.co", "lucid.app", "lucidchart.com", "lucidspark.com"]
     }
   ]
 }
